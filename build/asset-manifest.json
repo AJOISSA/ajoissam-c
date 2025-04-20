@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ajoissam/static/css/main.c433b785.css",
+    "main.js": "/ajoissam/static/js/main.c88cb705.js",
+    "static/media/logo.png": "/ajoissam/static/media/logo.95110c39f3f3f20cee49.png",
+    "index.html": "/ajoissam/index.html",
+    "main.c433b785.css.map": "/ajoissam/static/css/main.c433b785.css.map",
+    "main.c88cb705.js.map": "/ajoissam/static/js/main.c88cb705.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c433b785.css",
+    "static/js/main.c88cb705.js"
+  ]
+}
